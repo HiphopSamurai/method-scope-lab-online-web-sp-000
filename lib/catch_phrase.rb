@@ -1,4 +1,4 @@
 phase = "It's-a me, Mario!"
-def catch_phrase(phase)
+def catch_phrase(phrase)
   puts phrase
 end
